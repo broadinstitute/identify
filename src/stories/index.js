@@ -9,7 +9,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 import 'application/dist/toolkit.css';
 import image from "../images/1.png";
 
-import App from '../containers/App';
+import App from '../components/App';
 import Class from '../components/Class';
 import Classes from '../components/Classes';
 import Classifier from '../components/Classifier';

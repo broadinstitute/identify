@@ -6,7 +6,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 
 import 'application/dist/toolkit.css';
 
-import App from 'containers/App';
+import App from './components/App';
 
 import registerServiceWorker from './registerServiceWorker';
 

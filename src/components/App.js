@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 
 import './App.css';
 
-import Figure from 'components/Figure';
-import Menu from 'components/Menu';
+import Figure from './Figure';
+import Menu from './Menu';
 import image from "../images/1.png";
 
 class App extends Component {
