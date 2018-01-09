@@ -1,0 +1,16 @@
+button.btn {
+  background-color: inherit;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+button.btn:hover {
+  background-color: inherit;
+}
+
+button.btn:active, button.btn:focus, button.btn:target {
+  border: none;
+  background-color: inherit;
+  outline: 0 !important;
+}
